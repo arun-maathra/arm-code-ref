@@ -1,1 +1,6 @@
-null;
+-- Reference URL: https://oracle-base.com/articles/11g/dbms_parallel_execute_11gR2
+-- 
+SELECT
+   *
+FROM
+   user_parallel_execute_chunks;
